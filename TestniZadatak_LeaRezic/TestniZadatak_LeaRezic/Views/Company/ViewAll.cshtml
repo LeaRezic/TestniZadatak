@@ -1,0 +1,82 @@
+﻿@model IEnumerable<TestniZadatak_LeaRezic.Models.CompanyVM>
+
+@{
+    ViewBag.Title = "View";
+}
+
+<div style="margin-bottom:20px;">
+    <h2 class="text-muted" style="display:inline-block">Companies List</h2>
+    <h2 class="pull-right">
+        @Html.ActionLink("Create New", "Create")
+    </h2>
+</div>
+
+
+
+<table id="companiesTable" class="display table table-hover table-bordered table-striped">
+    <thead>
+        <tr class="success">
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostalCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlaceName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompanyCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompanyName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PostalCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PlaceName)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.IDCompany })
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+@*dodana skripta za jQuery DataTables*@
+@section Scripts {
+    @Scripts.Render("~/bundles/datatables")
+    <script>
+        // nije stavljeno u document.ready jer se skripta renderira na dnu layout-a
+        // mrvicu konfigurirano, da inicijalno ne sortira ni po čemu, te disable ordering na nekoliko stupaca
+        $('#companiesTable').DataTable({
+            "ordering": true,
+            "order": [],
+            "columnDefs": [
+                { "orderable": false, "targets": 2 },
+                { "orderable": false, "targets": 3 },
+                { "orderable": false, "targets": 5 }    
+            ]
+        });
+    </script>
+}

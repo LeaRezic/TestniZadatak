@@ -1,0 +1,34 @@
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\TestniZadatak_LeaRezic.Dal.dll.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\TestniZadatak_LeaRezic.Dal.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\TestniZadatak_LeaRezic.Dal.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.csprojAssemblyReference.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.csproj.CopyComplete
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\TestniZadatak_LeaRezic.Dal.dll.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\TestniZadatak_LeaRezic.Dal.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\TestniZadatak_LeaRezic.Dal.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.csproj.CopyComplete
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\TestniZadatak_LeaRezic.Dal.dll.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\TestniZadatak_LeaRezic.Dal.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\TestniZadatak_LeaRezic.Dal.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.csproj.CopyComplete
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic.Dal\obj\Debug\TestniZadatak_LeaRezic.Dal.pdb

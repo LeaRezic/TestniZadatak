@@ -1,0 +1,300 @@
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\ApplicationInsights.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.dll.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csc.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csc.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csc.rsp
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csi.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csi.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csi.rsp
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.AppContext.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Console.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\vbc.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\vbc.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\vbc.rsp
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Antlr3.Runtime.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.SqlServer.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.Web.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Newtonsoft.Json.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Helpers.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Mvc.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Optimization.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Razor.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\WebGrease.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.SqlServer.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Helpers.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Mvc.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Optimization.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Razor.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Newtonsoft.Json.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Antlr3.Runtime.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.Web.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.csprojAssemblyReference.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.csproj.CopyComplete
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.Dal.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.Dal.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.Dal.dll.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\ApplicationInsights.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.dll.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csc.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csc.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csc.rsp
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csi.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csi.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csi.rsp
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.AppContext.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Console.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\vbc.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\vbc.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\vbc.rsp
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Antlr3.Runtime.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.SqlServer.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.Web.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Newtonsoft.Json.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Helpers.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Mvc.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Optimization.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Razor.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.Dal.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\WebGrease.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.Dal.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.Dal.dll.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.SqlServer.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Helpers.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Mvc.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Optimization.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Razor.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Newtonsoft.Json.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Antlr3.Runtime.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.Web.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.csprojAssemblyReference.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.csproj.CopyComplete
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\ApplicationInsights.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.dll.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csc.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csc.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csc.rsp
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csi.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csi.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\csi.rsp
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.AppContext.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Console.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\vbc.exe
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\vbc.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\vbc.rsp
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Antlr3.Runtime.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.SqlServer.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.Web.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Newtonsoft.Json.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Helpers.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Mvc.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Optimization.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Razor.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.Dal.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\WebGrease.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.Dal.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\TestniZadatak_LeaRezic.Dal.dll.config
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\EntityFramework.SqlServer.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Helpers.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Mvc.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Optimization.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.Razor.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Newtonsoft.Json.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Antlr3.Runtime.pdb
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.AI.Web.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.csprojAssemblyReference.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.csproj.CopyComplete
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.dll
+C:\Users\Lea\Documents\0_Programiranje\TestniZadatak – kopija – kopija\TestniZadatak_LeaRezic\TestniZadatak_LeaRezic\obj\Debug\TestniZadatak_LeaRezic.pdb
